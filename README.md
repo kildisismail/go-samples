@@ -2,4 +2,5 @@
 
 ## Start learning Golang
 
-# To make it work <go run filename.go>
+# To make it work 
+go run filename.go
