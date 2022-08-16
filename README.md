@@ -1,6 +1,4 @@
-# go-samples
+# Start learning Golang
 
-## Start learning Golang
-
-# To make it work 
+## To make it work 
 go run filename.go
