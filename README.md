@@ -2,7 +2,7 @@
 
 ## To make it work 
 ```sh
-<go run "filename.go">
+go run filename.go
 ```
 
 ### About us
