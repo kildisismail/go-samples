@@ -14,3 +14,4 @@ go run filename.go
 <b>5.go:</b> Pointers <br/>
 <b>6.go:</b> Functions <br/>
 <b>7.go:</b> Structures <br/>
+<b>8.go:</b> Interfaces <br/>
