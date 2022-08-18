@@ -15,3 +15,4 @@ go run filename.go
 <b>6.go:</b> Functions <br/>
 <b>7.go:</b> Structures <br/>
 <b>8.go:</b> Interfaces <br/>
+<b>8.go:</b> Error Handling <br/>
