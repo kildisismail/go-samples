@@ -16,3 +16,4 @@ go run filename.go
 <b>7.go:</b> Structures <br/>
 <b>8.go:</b> Interfaces <br/>
 <b>9.go:</b> Error Handling <br/>
+<b>10.go:</b> Custom Error Handling <br/>
