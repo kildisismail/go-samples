@@ -18,3 +18,5 @@ go run filename.go
 <b>9.go:</b> Error Handling <br/>
 <b>10.go:</b> Custom Error Handling <br/>
 <b>11.go:</b> Reverse Text <br/>
+<b>12.go:</b> Panic and Defer <br/>
+<b>13.go:</b> Decode and Encode <br/>
