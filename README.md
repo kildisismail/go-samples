@@ -21,3 +21,4 @@ go run filename.go
 <b>12.go:</b> Panic and Defer <br/>
 <b>13.go:</b> Decode and Encode <br/>
 <b>14.go:</b> Go routines(time.Sleep()) <br/>
+<b>15.go:</b> Go routines Channel <br/>
