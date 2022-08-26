@@ -23,3 +23,4 @@ go run filename.go
 <b>14.go:</b> Go routines(time.Sleep()) <br/>
 <b>15.go:</b> Go routines Channel <br/>
 <b>16.go:</b> Go routines Multiple-Channels <br/>
+<b>17.go:</b> Go routines Buffered Channel <br/>
