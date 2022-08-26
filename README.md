@@ -22,3 +22,4 @@ go run filename.go
 <b>13.go:</b> Decode and Encode <br/>
 <b>14.go:</b> Go routines(time.Sleep()) <br/>
 <b>15.go:</b> Go routines Channel <br/>
+<b>16.go:</b> Go routines Multiple-Channels <br/>
