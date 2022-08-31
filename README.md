@@ -24,3 +24,4 @@ go run filename.go
 <b>15.go:</b> Go routines Channel <br/>
 <b>16.go:</b> Go routines Multiple-Channels <br/>
 <b>17.go:</b> Go routines Buffered Channel <br/>
+<b>18.go:</b> Go routines Synchronization & Directions Channel <br/>
