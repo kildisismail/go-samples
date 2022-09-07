@@ -27,4 +27,4 @@ go run filename.go
 <b>18.go:</b> Go routines Synchronization & Directions Channel <br/>
 <b>19.go:</b> Select <br/>
 <b>20.go:</b> Non-Blocking Channel Operations <br/>
-<b>21.go:</b> Closing Channels <br/>
+<b>21.go:</b> Closing Channels & Range over Channels <br/>
