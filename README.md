@@ -29,3 +29,4 @@ go run filename.go
 <b>20.go:</b> Non-Blocking Channel Operations <br/>
 <b>21.go:</b> Closing Channels & Range over Channels <br/>
 <b>22.go:</b> Timers <br/>
+<b>23.go:</b> Tickers <br/>
