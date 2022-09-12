@@ -30,3 +30,4 @@ go run filename.go
 <b>21.go:</b> Closing Channels & Range over Channels <br/>
 <b>22.go:</b> Timers <br/>
 <b>23.go:</b> Tickers <br/>
+<b>24.go:</b> Worker Pools <br/>
