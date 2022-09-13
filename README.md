@@ -32,3 +32,4 @@ go run filename.go
 <b>23.go:</b> Tickers <br/>
 <b>24.go:</b> Worker Pools <br/>
 <b>25.go:</b> Wait Groups <br/>
+<b>26.go:</b> Rate Limiting <br/>
