@@ -34,4 +34,4 @@ go run filename.go
 <b>25.go:</b> Wait Groups <br/>
 <b>26.go:</b> Rate Limiting <br/>
 <b>27.go:</b> Atomic Counters <br/>
-<b>27.go:</b> Mutexes <br/>
+<b>28.go:</b> Mutexes <br/>
