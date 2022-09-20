@@ -17,24 +17,24 @@ go run filename.go
 <b>8.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/8.go"> Interfaces </a><br>
 <b>9.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/9.go"> Error Handling </a><br>
 <b>10.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/10.go"> Custom Error Handling </a><br>
-<b>11.go:</b> Reverse Text <br/>
-<b>12.go:</b> Panic and Defer <br/>
-<b>13.go:</b> Decode and Encode <br/>
-<b>14.go:</b> Go routines(time.Sleep()) <br/>
-<b>15.go:</b> Go routines Channel <br/>
-<b>16.go:</b> Go routines Multiple-Channels <br/>
-<b>17.go:</b> Go routines Buffered Channel <br/>
-<b>18.go:</b> Go routines Synchronization & Directions Channel <br/>
-<b>19.go:</b> Select <br/>
-<b>20.go:</b> Non-Blocking Channel Operations <br/>
-<b>21.go:</b> Closing Channels & Range over Channels <br/>
-<b>22.go:</b> Timers <br/>
-<b>23.go:</b> Tickers <br/>
-<b>24.go:</b> Worker Pools <br/>
-<b>25.go:</b> Wait Groups <br/>
-<b>26.go:</b> Rate Limiting <br/>
-<b>27.go:</b> Atomic Counters <br/>
-<b>28.go:</b> Mutexes <br/>
-<b>29.go:</b> Stateful Goroutines <br/>
-<b>30.go:</b> Sorting & Sorting Functions <br/>
-<b>31.go:</b> String Functions & String Formatting <br/>
+<b>11.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/11.go"> Reverse Text </a><br/>
+<b>12.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/12.go"> Panic and Defer </a><br/>
+<b>13.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/13.go"> Decode and Encode </a><br/>
+<b>14.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/14.go"> Go routines(time.Sleep()) </a><br/>
+<b>15.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/15.go"> Go routines Channel </a><br/>
+<b>16.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/16.go"> Go routines Multiple-Channels </a><br/>
+<b>17.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/17.go"> Go routines Buffered Channel </a><br/>
+<b>18.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/18.go"> Go routines Synchronization & Directions Channel </a><br/>
+<b>19.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/19.go"> Select </a><br/>
+<b>20.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/20.go"> Non-Blocking Channel Operations </a><br/>
+<b>21.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/21.go"> Closing Channels & Range over Channels </a><br/>
+<b>22.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/22.go"> Timers </a><br/>
+<b>23.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/23.go"> Tickers </a><br/>
+<b>24.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/24.go"> Worker Pools </a><br/>
+<b>25.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/25.go"> Wait Groups </a><br/>
+<b>26.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/26.go"> Rate Limiting </a><br/>
+<b>27.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/27.go"> Atomic Counters </a><br/>
+<b>28.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/28.go"> Mutexes </a><br/>
+<b>29.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/29.go"> Stateful Goroutines </a><br/>
+<b>30.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/30.go"> Sorting & Sorting Functions </a><br/>
+<b>31.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/31.go"> String Functions & String Formatting </a><br/>
