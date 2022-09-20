@@ -7,16 +7,16 @@ go run filename.go
 
 ### About us
 
-<b>1.go:</b> Hello World <br/>
-<b>2.go:</b> Variables - Type casting <br/>
-<b>3.go:</b> Looping <br/>
-<b>4.go:</b> Conditional Statements - if else - switch case <br/>
-<b>5.go:</b> Pointers <br/>
-<b>6.go:</b> Functions <br/>
-<b>7.go:</b> Structures <br/>
-<b>8.go:</b> Interfaces <br/>
-<b>9.go:</b> Error Handling <br/>
-<b>10.go:</b> Custom Error Handling <br/>
+<b>1.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/1.go"> Hello World </a><br>
+<b>2.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/2.go"> Variables - Type casting </a><br>
+<b>3.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/3.go"> Looping </a><br>
+<b>4.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/4.go"> Conditional Statements - if else - switch case </a><br>
+<b>5.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/5.go"> Pointers </a><br>
+<b>6.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/6.go"> Functions </a><br>
+<b>7.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/7.go"> Structures </a><br>
+<b>8.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/8.go"> Interfaces </a><br>
+<b>9.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/9.go"> Error Handling </a><br>
+<b>10.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/10.go"> Custom Error Handling </a><br>
 <b>11.go:</b> Reverse Text <br/>
 <b>12.go:</b> Panic and Defer <br/>
 <b>13.go:</b> Decode and Encode <br/>
