@@ -38,3 +38,4 @@ go run filename.go
 <b>29.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/29.go"> Stateful Goroutines </a><br/>
 <b>30.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/30.go"> Sorting & Sorting Functions </a><br/>
 <b>31.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/31.go"> String Functions & String Formatting </a><br/>
+<b>32.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/32.go"> Text Templates </a><br/>
