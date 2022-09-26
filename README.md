@@ -41,3 +41,4 @@ go run filename.go
 <b>32.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/32.go"> Text Templates </a><br/>
 <b>33.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/33.go"> Regular Expressions </a><br/>
 <b>34.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/34.go"> JSON </a><br/>
+<b>35.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/35.go"> XML </a><br/>
