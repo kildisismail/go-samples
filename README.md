@@ -43,3 +43,4 @@ go run filename.go
 <b>34.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/34.go"> JSON </a><br/>
 <b>35.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/35.go"> XML </a><br/>
 <b>36.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/36.go"> Time & Epoch </a><br/>
+<b>37.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/37.go"> Time Formatting - Parsing </a><br/>
