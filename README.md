@@ -45,3 +45,4 @@ go run filename.go
 <b>36.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/36.go"> Time & Epoch </a><br/>
 <b>37.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/37.go"> Time Formatting - Parsing </a><br/>
 <b>38.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/38.go"> Random Numbers & Number Parsing </a><br/>
+<b>39.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/39.go"> URL Parsing </a><br/>
