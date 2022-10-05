@@ -48,3 +48,4 @@ go run filename.go
 <b>39.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/39.go"> URL Parsing </a><br/>
 <b>40.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/40.go"> SHA256 Hashes & Base64 Encoding </a><br/>
 <b>41.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/41.go"> Writing Files </a><br/>
+<b>42.go:</b><a href="https://github.com/kildisismail/go-samples/blob/main/42.go"> Directories </a><br/>
